@@ -1,0 +1,15 @@
+rooms
+users
+.hipchat_token
+.hipchat_token2
+all_room_ids.txt
+file_urls.txt
+files.json
+room_ids.txt
+room_skip.txt
+room_skip_test.txt
+rooms.json
+user_ids.txt
+user_skip.txt
+old
+users.json
