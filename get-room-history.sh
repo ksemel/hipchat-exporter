@@ -1,7 +1,7 @@
 #!/bin/bash
 source get-rate-limit.sh
 
-HIPCHAT_TOKEN=`cat .hipchat_token2`
+HIPCHAT_TOKEN=`cat .hipchat_token`
 
 # Name of the configuration file
 ROOMJSON=rooms.json
